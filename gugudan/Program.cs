@@ -61,6 +61,7 @@ namespace gugudan
             {
                 Console.WriteLine("윗부분");
 
+                continue;
                 break;
 
                 Console.WriteLine("아랫부분");
